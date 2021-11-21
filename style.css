@@ -93,7 +93,6 @@ section .title::after {
 
 
 
-
 /* navbar styling */
 
 .navbar {
@@ -196,7 +195,7 @@ section .title::after {
 
 .home{
     display: flex;
-    background: url(images/bg.jpg) no-repeat center;
+    background: url(it-background.jpeg) no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
